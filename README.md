@@ -18,7 +18,7 @@
   <a href="#">Evellyn</a>;
   <a href="#">Lucas</a>;
   <a href="#">Aline</a>;
-  <a href="#">Lohan</a>.
+  <a href="#">Luhan</a>.
 </h3>
 
 <details>
