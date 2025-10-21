@@ -3,17 +3,17 @@ O projeto tem como objetivo desenvolver um sistema de agendamento e gestão de a
 
 
 
-# 📘 *Documentação do Projeto Integrador (PI)*  
+# *Documentação do Projeto Integrador (PI)*  
 
 <details>
-  <summary><strong>📑 Sumário</strong></summary>
+  <summary><strong>Sumário</strong></summary>
 
 - [1. Introdução](#1-introdução)
-  - [🎯 Objetivos](#-objetivos)
-  - [🛠️ Metodologia](#-metodologia)
+  - [Objetivos](#-objetivos)
+  - [Metodologia](#-metodologia)
 - [2. Requisitos](#2-requisitos)
-  - [⚙️ Requisitos funcionais](#️-requisitos-funcionais)
-  - [🧩 Requisitos não funcionais](#-requisitos-não-funcionais)
+  - [Requisitos funcionais](-requisitos-funcionais)
+  - [Requisitos não funcionais](#-requisitos-não-funcionais)
 - [3. Modelo de casos de uso](#3-modelo-de-casos-de-uso)
 - [4. Modelo do banco de dados](#4-modelo-do-banco-de-dados)
 - [5. Banco de dados](#5-banco-de-dados)
