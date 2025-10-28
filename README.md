@@ -76,24 +76,7 @@ Responde às perguntas: Como? Com o quê? Onde? Quando?)*
 - Requisito de padrões  
 - Requisitos de interoperabilidade  
 
----
-
-# 3. Modelo de casos de uso  
-
----
-
-# 4. Modelo do banco de dados  
-*(Modelo conceitual, lógico e físico)*  
-
----
-
-# 5. Banco de dados  
-
----
-
-# 6. Diagrama de classes  
-
----
+---
 
 # 7. Estudo de viabilidade  
 
@@ -181,6 +164,6 @@ O estudo mostrou que o projeto é:
 
 ---
 
-# 11. Aplicação  
+# 11. Aplicação
 
 
