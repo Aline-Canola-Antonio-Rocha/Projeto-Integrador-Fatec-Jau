@@ -64,19 +64,117 @@ Responde às perguntas: Como? Com o quê? Onde? Quando?)*
 
 # 2. Requisitos  
 
-## ⚙️ Requisitos funcionais  
-*(Funcionalidades esperadas, necessidades que devem ser atendidas)*  
+## ⚙️ Requisitos Funcionais (RF)
+RF01 – Cancelamento/Remarcação pelo Cliente:
+O sistema deve permitir que o cliente cancele uma sessão com antecedência mínima de 24 horas.
 
-## 🧩 Requisitos não funcionais  
-*(Critérios de qualidade do sistema)*  
-- Requisitos de produto  
-- Requisitos de organização  
-- Requisitos de confiabilidade  
-- Requisito de implementação  
-- Requisito de padrões  
-- Requisitos de interoperabilidade  
+RF02 – Cancelamento pela Esteticista:
+O sistema deve permitir que a esteticista cancele o horário de um cliente e deve notificar o cliente automaticamente.
 
----
+RF03 – Agenda Individual:
+O sistema deve permitir que cada esteticista possua login individual, com acesso apenas à sua própria agenda.
+
+RF04 – Escolha de Esteticista:
+O sistema deve permitir que o cliente escolha a esteticista desejada no momento do agendamento.
+
+RF05 – Relatórios Gerenciais:
+O sistema deve gerar relatórios gerenciais, incluindo:
+
+Serviços mais realizados
+Horários de pico
+Profissionais mais requisitados
+RF06 – Relatórios de Clientes:
+O sistema deve gerar relatórios relacionados ao cliente, incluindo:
+
+Frequência de atendimento
+Lembretes de aniversário
+RF07 – Notificações e Lembretes:
+O sistema deve enviar notificações/lembretes de consultas aos clientes, preferencialmente via WhatsApp.
+
+RF08 – Controle Financeiro:
+O sistema deve incluir controle financeiro, permitindo registrar:
+
+Pagamentos
+Pacotes de sessões
+Inadimplências
+OBS: O acesso a esses dados deve ser restrito apenas à administradora.
+
+RF09 – Integração Externa:
+O sistema deve permitir integração com redes sociais e aplicativos de mensagens.
+
+RF10 – Responsividade:
+O sistema deve possuir versão responsiva, funcionando tanto em computador quanto em celular.
+
+RF11 – Personalização da Identidade Visual:
+O sistema deve permitir que a administradora personalize a identidade visual (cores e logotipo).
+
+RF12 – Agendamento e Pagamento Online:
+O sistema deve possibilitar agendamento e pagamentos online, incluindo opção de pré-pagamento parcial como garantia.
+
+RF13 – Marketing Automatizado:
+O sistema deve disponibilizar recursos de marketing, incluindo:
+
+Promoções
+Lembretes de aniversário
+Programa de fidelidade
+RF14 – Autonomia da Administradora:
+O sistema deve permitir que a administradora tenha autonomia para realizar alterações, como ajustes em funcionalidades, regras ou conteúdos.
+
+## ⚙️ Requisitos Não Funcionais (RNF)
+RNF01 – Segurança (Autenticação):
+O sistema deve exigir login e senha válidos para acesso, garantindo a proteção dos dados do usuário.
+
+RNF02 – Desempenho:
+As páginas do sistema devem carregar em no máximo 3 segundos, mesmo em condições de internet limitada.
+
+RNF03 – Usabilidade:
+Um novo usuário deve conseguir realizar um agendamento em até 3 minutos, sem necessidade de treinamento prévio.
+
+RNF04 – Personalização da Interface:
+A interface deve ser personalizada e detalhada, sem comprometer a clareza e a facilidade de uso.
+
+RNF05 – Experiência do Usuário:
+O sistema deve proporcionar uma experiência agradável e intuitiva, incentivando o retorno e a fidelização dos clientes.
+
+RNF06 – Segurança (Dados Sensíveis):
+Os dados de pagamento devem ser armazenados e transmitidos de forma criptografada, seguindo boas práticas de segurança.
+
+RNF07 – Responsividade:
+O sistema deve ser responsivo, funcionando corretamente em dispositivos desktop e mobile.
+
+Regras de Negócio (RN)
+RN01 – Cancelamento de Cliente:
+O cliente só poderá cancelar sessões até 24 horas de antecedência.
+
+RN02 – Cancelamento de Esteticista:
+Esteticistas podem cancelar sessões, mas o sistema deve notificar o cliente automaticamente.
+
+RN03 – Agenda de Esteticista:
+Cada esteticista só pode visualizar e gerenciar sua própria agenda.
+
+RN04 – Controle Financeiro:
+Somente a administradora terá acesso ao controle financeiro (pagamentos, pacotes e inadimplência).
+
+RN05 – Escolha de Esteticista:
+O cliente pode selecionar a esteticista desejada durante o agendamento.
+
+RN06 – Pré-pagamento:
+Em agendamentos online, o cliente deverá pagar um percentual definido pela administradora como pré-pagamento.
+
+RN07 – Lembretes Automáticos:
+Todos os clientes devem receber lembretes automáticos de consulta, preferencialmente via WhatsApp.
+
+RN08 – Marketing Automatizado:
+O sistema deve executar ações de marketing automatizadas, como promoções, lembretes de aniversário e fidelização.
+
+RN09 – Restrição de Acesso:
+O acesso aos dados será restrito e protegido por login com credenciais válidas.
+
+RN10 – Autonomia da Administradora:
+A administradora deve ter autonomia para alterar regras e configurações diretamente no sistema.
+
+
+
 
 # 7. Estudo de viabilidade  
 
@@ -165,5 +263,6 @@ O estudo mostrou que o projeto é:
 ---
 
 # 11. Aplicação
+
 
 
