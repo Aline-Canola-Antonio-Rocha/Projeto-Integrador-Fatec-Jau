@@ -29,9 +29,21 @@ O projeto tem como objetivo desenvolver um sistema de agendamento e gestão de a
 ---
 
 # 1. Introdução  
-*(Contextualização, justificativa do projeto: Por quê?)*  
+ O mercado de estética no Brasil tem mostrado um crescimento expressivo e reseliência notável.
+ A crescenta demanda por serviços estéticos e profissionalização no setor exigem que as clientes adotem ferramentas de gestão mais sofisticados.
 
 ## 🎯 Objetivos  
+Objetivo Geral:
+Desenvolver um sistema ERP completo e intuitivo para otimizar a gestão de clínicas de estética de pequeno e médio porte.
+
+Objetivos Especificos:
+- Centralizar gestão de agendamentos
+- Automatizar Controle Financeiro
+- Automatizar Controle de Estoque
+- Ferramenta CRM
+- Relatórios e Dashboard gerenciais.
+
+
 
 ## 🛠️ Metodologia  
 *(Métodos, tecnologias, modelos de processo, ferramentas utilizadas.  
