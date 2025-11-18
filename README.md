@@ -54,20 +54,20 @@ Responde às perguntas: Como? Com o quê? Onde? Quando?)*
 # 2. Requisitos  
 
 ## ⚙️ Requisitos funcionais  
-RF01 Cancelamento/Remarcação pelo cliente
-RF02 Cancelamento pelo profissional
-RF03 Agenda Individual
-RF04 Escolher Esteticista
-RF05 Relatórios Gerenciais
-RF06 Relatórios de Clientes
-RF07 Notificação e Lembretes
-RF08 Controle Finaceiro
-RF09 Integração Externa
-RF10 Responsividade
-RF11 Personalização da Identidade Visual
-RF12 Agendamento e Pagamento Online
-RF13 Marketing Automatizado
-RF14 Autonomia do Aministrador
+RF01 Cancelamento/Remarcação pelo cliente <br>
+RF02 Cancelamento pelo profissional <br>
+RF03 Agenda Individual <br>
+RF04 Escolher Esteticista <br>
+RF05 Relatórios Gerenciais <br>
+RF06 Relatórios de Clientes <br>
+RF07 Notificação e Lembretes <br>
+RF08 Controle Finaceiro <br>
+RF09 Integração Externa <br>
+RF10 Responsividade <br>
+RF11 Personalização da Identidade Visual <br>
+RF12 Agendamento e Pagamento Online <br>
+RF13 Marketing Automatizado <br>
+RF14 Autonomia do Aministrador <br>
  
 
 ## 🧩 Requisitos não funcionais  
