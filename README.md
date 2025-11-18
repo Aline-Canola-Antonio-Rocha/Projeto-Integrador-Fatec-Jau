@@ -130,7 +130,8 @@ RNF17 Autonomia ADM <br>
 ---
 
 # 10. Protótipo  
-*(Protótipo funcional no Figma ou outra ferramenta. Colocar o link aqui)*  
+Figma: https://www.figma.com/design/1Le26sngVuPy61TJzUhlfK/TelasLuhan?node-id=9-2&t=ugOUAXpNuFFYTDWU-0
+Pagina Oficial: https://projeto-integrador-ashen-omega.vercel.app/index.html
 
 ---
 
