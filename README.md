@@ -54,16 +54,43 @@ Responde às perguntas: Como? Com o quê? Onde? Quando?)*
 # 2. Requisitos  
 
 ## ⚙️ Requisitos funcionais  
-*(Funcionalidades esperadas, necessidades que devem ser atendidas)*  
+RF01 Cancelamento/Remarcação pelo cliente
+RF02 Cancelamento pelo profissional
+RF03 Agenda Individual
+RF04 Escolher Esteticista
+RF05 Relatórios Gerenciais
+RF06 Relatórios de Clientes
+RF07 Notificação e Lembretes
+RF08 Controle Finaceiro
+RF09 Integração Externa
+RF10 Responsividade
+RF11 Personalização da Identidade Visual
+RF12 Agendamento e Pagamento Online
+RF13 Marketing Automatizado
+RF14 Autonomia do Aministrador
+ 
 
 ## 🧩 Requisitos não funcionais  
-*(Critérios de qualidade do sistema)*  
-- Requisitos de produto  
-- Requisitos de organização  
-- Requisitos de confiabilidade  
-- Requisito de implementação  
-- Requisito de padrões  
-- Requisitos de interoperabilidade  
+RNF01 Segurança e Autenticação
+RNF02 Desempenho
+RNF03 Personalização da Interface
+RNF04 Usuabilidade
+RNF05 Experiência do Usuario
+RNF06 Segurança (dados sensíveis)
+RNF07 Responsividade
+
+## 🧩 Regras de Negócio
+RN01 Cancelamento pelo Cliente
+RN02 Cancelamento pelo Esteticista
+RN03 Agenda Esteticista
+RN04 Controle Financeiro
+RN05 Escolha Estéticista
+RN06 Pré Pagamento
+RN07 Lembretes Automaticos
+RN08 MKT Automatizado
+RN09 Restrições de Acesso
+RN10 Autonomia ADM
+
 
 ---
 
@@ -91,7 +118,8 @@ Responde às perguntas: Como? Com o quê? Onde? Quando?)*
 
 # 8. Regras de negócio (Modelo Canvas)  
 
----
+
+
 
 # 9. Design  
 - 🎨 Paleta de cores  
