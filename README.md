@@ -115,6 +115,7 @@ RNF17 Autonomia ADM <br>
 ---
 
 # 8. Regras de negócio (Modelo Canvas)  
+![canva](https://github.com/user-attachments/assets/3a312a67-e23b-43fe-a852-28ef56379b3c)
 
 
 
