@@ -121,16 +121,22 @@ RNF17 Autonomia ADM <br>
 
 
 # 9. Design  
-- 🎨 Paleta de cores  
-- ✍️ Tipografia  
-- 🔖 Logo  
-- 🧩 Wireframes  
+- 🎨 Paleta de cores
+  <img width="604" height="779" alt="image" src="https://github.com/user-attachments/assets/3ecd9b58-c4fd-43a4-b4c7-7905b4d82d85" />
+ 
+- ✍️ Tipografia
+  Roboto (Títulos)
+  Roboto (Corpo/Texto)  
+- 🔖 Logo
+   
+- 🧩 Wireframes
+   
 - 🗺️ Modelo de navegação  
 
 ---
 
 # 10. Protótipo  
-Figma: https://www.figma.com/design/1Le26sngVuPy61TJzUhlfK/TelasLuhan?node-id=9-2&t=ugOUAXpNuFFYTDWU-0
+Figma: https://www.figma.com/design/1Le26sngVuPy61TJzUhlfK/TelasLuhan?node-id=9-2&t=ugOUAXpNuFFYTDWU-0 <br>
 Pagina Oficial: https://projeto-integrador-ashen-omega.vercel.app/index.html
 
 ---
