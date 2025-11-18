@@ -71,25 +71,23 @@ RF14 Autonomia do Aministrador <br>
  
 
 ## 🧩 Requisitos não funcionais  
-RNF01 Segurança e Autenticação
-RNF02 Desempenho
-RNF03 Personalização da Interface
-RNF04 Usuabilidade
-RNF05 Experiência do Usuario
-RNF06 Segurança (dados sensíveis)
-RNF07 Responsividade
-
-## 🧩 Regras de Negócio
-RN01 Cancelamento pelo Cliente
-RN02 Cancelamento pelo Esteticista
-RN03 Agenda Esteticista
-RN04 Controle Financeiro
-RN05 Escolha Estéticista
-RN06 Pré Pagamento
-RN07 Lembretes Automaticos
-RN08 MKT Automatizado
-RN09 Restrições de Acesso
-RN10 Autonomia ADM
+RNF01 Segurança e Autenticação <br>
+RNF02 Desempenho <br>
+RNF03 Personalização da Interface <br>
+RNF04 Usuabilidade <br>
+RNF05 Experiência do Usuario <br>
+RNF06 Segurança (dados sensíveis) <br>
+RNF07 Responsividade <br>
+RNF08 Cancelamento pelo Cliente <br>
+RNF09 Cancelamento pelo Esteticista <br>
+RNF10 Agenda Esteticista <br>
+RNF11 Controle Financeiro <br>
+RNF12 Escolha Estéticista <br>
+RNF13 Pré Pagamento <br>
+RNF14 Lembretes Automaticos <br>
+RNF15 MKT Automatizado <br>
+RNF16 Restrições de Acesso <br>
+RNF17 Autonomia ADM <br>
 
 
 ---
