@@ -121,10 +121,11 @@ RNF17 Autonomia ADM <br>
 
 
 # 9. Design  
-- 🎨 Paleta de cores
+- 🎨 Paleta de cores <br>
+br>
   <img width="604" height="779" alt="image" src="https://github.com/user-attachments/assets/3ecd9b58-c4fd-43a4-b4c7-7905b4d82d85" />
  
-- ✍️ Tipografia
+- ✍️ Tipografia <br>
   Roboto (Títulos)
   Roboto (Corpo/Texto)  
 - 🔖 Logo
